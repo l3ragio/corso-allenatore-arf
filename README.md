@@ -9,12 +9,6 @@ Ogni documento è disponibile in tre formati: **.doc**, **.docx** e **.pdf**.
 
 ## Documenti
 
-### Relazioni di giornata
-| Documento | Giornata | Formati |
-|-----------|----------|---------|
-| Relazione Giornata 1 | 27/06/2026 | [.doc](Relazione_Giornata1_ARF.doc) · [.docx](Relazione_Giornata1_ARF.docx) · [.pdf](Relazione_Giornata1_ARF.pdf) |
-| Relazione Giornata 2 | 28/06/2026 | [.doc](Relazione_Giornata2_ARF.doc) · [.docx](Relazione_Giornata2_ARF.docx) · [.pdf](Relazione_Giornata2_ARF.pdf) |
-
 ### Quaderno Tecnico (Moduli 1 e 5)
 | Documento | Descrizione | Formati |
 |-----------|-------------|---------|
