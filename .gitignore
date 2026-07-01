@@ -1,0 +1,7 @@
+# File temporanei di MS Word
+~$*
+*.tmp
+
+# Sistema
+Thumbs.db
+.DS_Store
